@@ -9,24 +9,16 @@ RUN \
     exts=(\
         aaron-bond.better-comments \
         dsznajder.es7-react-js-snippets \
-        # leizongmin.node-module-intellisense \
         xabikos.JavaScriptSnippets \
-        # jasonnutter.search-node-modules \
         christian-kohler.npm-intellisense \
-        # VisualStudioExptTeam.vscodeintellicode-api-usage-examples \
         ms-vscode.cpptools-themes \
-        # ms-vscode.cpptools-extension-pack \
-        # jeff-hykin.dev-cpp-theme \
-        # VisualStudioExptTeam.vscodeintellicode \
         esbenp.prettier-vscode \
         github.github-vscode-theme \
         mhutchie.git-graph \
         formulahendry.code-runner \
-        donjayamanne.git-project-manager \
         donjayamanne.githistory \
         formulahendry.auto-rename-tag \
         github.remotehub \
-        ms-vscode-remote.remote-repositories \
         heybourn.headwind \
         bradlc.vscode-tailwindcss \
         alefragnani.project-manager \

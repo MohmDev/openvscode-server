@@ -18,26 +18,26 @@ RUN \
         formulahendry.code-runner \
         donjayamanne.githistory \
         formulahendry.auto-rename-tag \
-        github.remotehub \
+        # github.remotehub \
         heybourn.headwind \
         bradlc.vscode-tailwindcss \
-        alefragnani.project-manager \
-        naumovs.relativepath \
+        # alefragnani.project-manager \
+        # naumovs.relativepath \
         jock.svg \
         vincaslt.highlight-matching-tag \
-        bierner.github-markdown-preview \
-        yzhang.markdown-all-in-one \
-        oderwat.indent-rainbow \
-        Gruntfuggly.todo-tree \
-        knisterpeter.vscode-gist \
-        vsls-contrib.codetour \
-        ms-vscode.browser-preview \
+        # bierner.github-markdown-preview \
+        # yzhang.markdown-all-in-one \
+        # oderwat.indent-rainbow \
+        # Gruntfuggly.todo-tree \
+        # knisterpeter.vscode-gist \
+        # vsls-contrib.codetour \
+        # ms-vscode.browser-preview \
         whtouche.node-modules-viewer \
-        bjdelange.tailwindshades \
+        # bjdelange.tailwindshades \
         rvest.vs-code-prettier-eslint \
-        ms-vscode.cpptools \
-        graphql.vscode-graphql-syntax \
-        ms-azuretools.azure-repos \
-        codeswing.codeswing \
+        # ms-vscode.cpptools \
+        # graphql.vscode-graphql-syntax \
+        # ms-azuretools.azure-repos \
+        # codeswing.codeswing \
     )\
     && for ext in "${exts[@]}"; do ${OPENVSCODE} --install-extension "${ext}"; done

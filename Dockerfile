@@ -32,7 +32,7 @@ RUN \
         # knisterpeter.vscode-gist \
         # vsls-contrib.codetour \
         # ms-vscode.browser-preview \
-        whtouche.node-modules-viewer \
+        # whtouche.node-modules-viewer \
         # bjdelange.tailwindshades \
         rvest.vs-code-prettier-eslint \
         # ms-vscode.cpptools \

@@ -9,15 +9,15 @@ RUN \
     exts=(\
         aaron-bond.better-comments \
         dsznajder.es7-react-js-snippets \
-        leizongmin.node-module-intellisense \
+        # leizongmin.node-module-intellisense \
         xabikos.JavaScriptSnippets \
-        jasonnutter.search-node-modules \
+        # jasonnutter.search-node-modules \
         christian-kohler.npm-intellisense \
-        VisualStudioExptTeam.vscodeintellicode-api-usage-examples \
+        # VisualStudioExptTeam.vscodeintellicode-api-usage-examples \
         ms-vscode.cpptools-themes \
-        ms-vscode.cpptools-extension-pack \
-        jeff-hykin.dev-cpp-theme \
-        VisualStudioExptTeam.vscodeintellicode \
+        # ms-vscode.cpptools-extension-pack \
+        # jeff-hykin.dev-cpp-theme \
+        # VisualStudioExptTeam.vscodeintellicode \
         esbenp.prettier-vscode \
         github.github-vscode-theme \
         mhutchie.git-graph \
